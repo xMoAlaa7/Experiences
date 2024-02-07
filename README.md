@@ -3,7 +3,7 @@
 ## alx_africa
 ### AWS Cloud Computing Program (May 2023 - Feb 2024) (4 Months Soft Skills & 6 Months Program)
 <p align="center">
-  <img style="padding-right:10px" src="images/alx.jpeg" width="auto" height="100"><img <img style="padding-left:10px" src="images/AWS.jpg" width="auto" height="100">
+  <img style="padding-right:10px" src="images/alx.jpeg" width="auto" height="100"><img style="padding-left:10px" src="images/AWS.jpg" width="auto" height="100">
 </p>
 
 - Worked on improving soft skills via attending alx hubs and interacting with fellow peers to complete weekly milestones.
