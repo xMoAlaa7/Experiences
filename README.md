@@ -3,7 +3,7 @@
 ## alx_africa
 ### AWS Cloud Computing Program (May 2023 - Feb 2024) (4 Months Soft Skills & 6 Months Program)
 <p align="center">
-  <img src="images/alx.jpeg" width="auto" height="100">&nbsp&nbsp&nbsp<img src="images/AWS.jpg" width="auto" height="100">
+  <img style="padding-right:10px" src="images/alx.jpeg" width="auto" height="100"><img <img style="padding-left:10px" src="images/AWS.jpg" width="auto" height="100">
 </p>
 
 - Worked on improving soft skills via attending alx hubs and interacting with fellow peers to complete weekly milestones.
@@ -14,7 +14,7 @@
 ## Senior Steps - IT Training Center
 ### Red Hat Linux System Administraion Training (June 2023 - August 2024) (3 Months)
 <p align="center">
-  <img src="images/SeniorSteps.png" width="auto" height="100">&nbsp&nbsp&nbsp<img src="images/RHL.png" width="auto" height="100">
+  <img style="padding-right:10px" src="images/SeniorSteps.png" width="auto" height="100"><img style="padding-left:10px" src="images/RHL.png" width="auto" height="100">
 </p>
 
 - Acquired and applied concepts of Linux System Administration as:
@@ -30,7 +30,7 @@
  
 ### Microsoft Windows Server Administration Training (June 2022 - September 2024) (4 Months)
 <p align="center">
-  <img src="images/SeniorSteps.png" width="auto" height="100">&nbsp&nbsp&nbsp<img src="images/Microsoft.png" width="auto" height="100">
+  <img style="padding-right:10px" src="images/SeniorSteps.png" width="auto" height="100"><img style="padding-left:10px" src="images/Microsoft.png" width="auto" height="100">
 </p>
 
 - Gained an understanding of Virtualization and applied on it by deploying instances on VMware and VirtualBox.
@@ -50,7 +50,7 @@
 ## CLS Learning Solutions
 ### CCNA & CCNA Security Training (July 2021 - September 2021) (3 Months)
 <p align="center">
-  <img src="images/CLS.png" width="auto" height="100">&nbsp&nbsp&nbsp<img src="images/Cisco.png" width="auto" height="100">
+  <img style="padding-right:10px" src="images/CLS.png" width="auto" height="100"><img style="padding-left:10px" src="images/Cisco.png" width="auto" height="100">
 </p>
 
 - Studied the different types of networks, topologies, media, connectors, architectures, devices, access methods, and transmission methods.
